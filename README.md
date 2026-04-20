@@ -8,7 +8,6 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-backend-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-detection-FF4B4B?style=for-the-badge)](https://ultralytics.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 **Upload a football match video → get live tactical analysis streamed to your browser in real time.**
 
