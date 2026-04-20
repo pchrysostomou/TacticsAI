@@ -1,0 +1,55 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Model weights (large binary files — download separately via ultralytics)
+*.pt
+*.onnx
+*.engine
+models/
+
+# Data & output (keep demo video, exclude user uploads/outputs)
+output/
+runs/
+tmp_uploads/
+
+# Video files — EXCEPT the demo clip
+*.avi
+*.mov
+*.mkv
+# Note: data/tryolabs_demo.mp4 is intentionally tracked
+
+# Next.js
+frontend/.next/
+frontend/node_modules/
+frontend/out/
+
+# Streamlit (legacy)
+.streamlit/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Style reference (external repo)
+_style_ref/
